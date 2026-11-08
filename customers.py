@@ -1,3 +1,6 @@
+# Self-Assessment Questions:
+# 1. When I use bracket notation, the key has to exist in the dictionary, otherwise a KeyError is raised. When I use the get() method, if the key does not exist, it returns None or a default value if specified. The bracket notation would be best for guaranteed data and the .get() method works best for optional data.
+# 2. Exercise 8 reminds me of pivot tables in Excel. It is a way to summarize data by grouping and aggregating values based on certain criteria, similar to how pivot tables allow you to analyze and summarize data in a spreadsheet. Python makes it easy by automating the process of grouping and aggregating data, while pivot tables in Excel require manual setup and configuration.
 # Exercise 1:
 print("----- Exercise 1: -----")
 customer = {
